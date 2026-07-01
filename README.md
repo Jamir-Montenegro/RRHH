@@ -116,7 +116,7 @@ http://localhost/RRHH
 
 **Jamir Montenegro**
 
-Universidad de Panamá
+Universidad Tecnologica de Panamá
 
 Desarollo de software VII
 
